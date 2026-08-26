@@ -2,6 +2,8 @@
 
 A lightweight Web3 application to create and launch custom SPL tokens on Solana Devnet with on-chain Metaplex metadata and IPFS image hosting.
 
+🔗 **Live Demo**: [https://web3-assignments.vercel.app](https://web3-assignments.vercel.app)
+
 ---
 
 ## What this project does
